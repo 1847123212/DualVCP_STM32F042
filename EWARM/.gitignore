@@ -1,0 +1,5 @@
+HW_VCP_Sniffer Configuration
+settings
+*.dep
+*.ewt
+*.ewd
